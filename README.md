@@ -18,4 +18,10 @@ npm install
 npm run start
 ```
 
+## Technologies Used
 
+* NestJS - Node.js framework for the backend
+* Socket.io - For real-time game server
+* MongoDB with Mongoose - For data persistence
+* Passport & JWT - For authentication
+* TypeScript - For type-safe backend code
