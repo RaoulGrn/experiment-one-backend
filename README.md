@@ -1,6 +1,7 @@
 ## About the project
 
-This project was made using NextJs, NextJs and MongoDB. It's a simple game of Rock, Paper, Scissors. Press Quick Match, wait for another player (you can test using two different browsers) and play!
+RPS Arena was made using NextJs, NextJs and MongoDB. It's a simple game of Rock, Paper, Scissors. Press Quick Match, wait for another player (you can test using two different browsers) and play!
+
 This repository hosts the backend for https://github.com/RaoulGrn/experiment-one
 
 ## How to run
